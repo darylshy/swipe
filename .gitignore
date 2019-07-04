@@ -1,0 +1,16 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+.DS_Store
+.idea
+.vscode/
+.watchmanconfig
+babel.config.js
+package-lock.json
